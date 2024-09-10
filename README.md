@@ -7,5 +7,4 @@
    Run 'Sauce_demo' test
 6. Run the tests in headless mode ie in the terminal without opening Cypress
    Run the command 'npx cypress run'
-
    Automated test: Cypress/cypress/e2e/Sauce_demo.cy.js
