@@ -1,5 +1,3 @@
-//const cypress = require("cypress")
-
 describe('Swag labs automated test', () => {
   it('Login and add expensive item to cart', () => {
     cy.visit('https://www.saucedemo.com/')
